@@ -1,0 +1,9 @@
+body {
+    font: 20px serif;
+}
+article {
+    margin: 50px auto;
+    max-width: 8in;
+}
+a { color: inherit; }
+a:hover { text-decoration: none; }
