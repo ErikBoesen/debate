@@ -1,9 +1,13 @@
 body {
     font: 20px serif;
+    line-height: 1.25
 }
 article {
     margin: 50px auto;
     max-width: 8in;
+}
+li {
+    margin: 10px 0;
 }
 a { color: inherit; }
 a:hover { text-decoration: none; }
